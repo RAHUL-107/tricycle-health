@@ -23,7 +23,7 @@ function App() {
         <Route path="/Refer" element={<Refer />} />
         <Route path="/Now-hiring" element={<Now />} />
         <Route path="*" element={<div className=" py-[100px] text-[50px] font-bold">
-          Hello page not found, Go back !!!!!
+          Hello  page not found, Go back !!!!!
         </div>} />
       </Routes>
       <Page10 />
